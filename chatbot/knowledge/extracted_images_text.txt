@@ -1,0 +1,271 @@
+========================
+NOBLE UNIVERSITY
+========================
+
+Course: IMCA
+Specializations:
+- AI & ML
+- Cyber Security
+Fees: 82000
+Duration: 4 year
+
+Course: BBA
+Specializations:
+- Aviation, Hospitality & Tourism Management
+- Global Business Management
+Fees: 45000
+Duration: 3 year
+
+Course: BCA
+Specializations:
+- AI & ML
+- Cloud & App Development
+- IMS & Cyber Security
+Fees: 82000
+Duration: 4 year
+
+Course: Bachelor (Hotel Management)
+Specializations:
+- Hotel Management & Catering Technology (Hons)
+Fees: 45000
+Duration: 4 year
+
+course:B.Com
+Fees:43000
+Duration: 4 year
+
+========================
+CVM UNIVERSITY
+========================
+
+Course: BBA
+Specializations:
+- Aviation, Hospitality & Tourism Management
+- Global Business Management
+Fees: 82000
+Duration: 3 year
+
+Course: iM.Sc. IT
+Specializations:
+- IMS & Cyber Security
+- Artificial Intelligence & Machine Learning
+- Full Stack Application Development
+- FinTech
+Fees: 85000
+Duration: 2 year
+
+Course: PGDM
+Specializations:
+- Global Business Management
+Fees: 84000
+Duration: 3 year
+
+Course: Diploma-B.Design-M.
+Design
+Specializations:
+-Fashion & Lifestyle Design
+-Interior & Furniture Design
+-Animation, VFX & Game Design
+-Product Design
+-Visual Communication Design
+-U - UX Design
+Fees: 45000
+Duration: 3 year
+
+
+========================
+SWAMINARAYAN UNIVERSITY
+========================
+
+Course: BBA
+Specializations:
+- International Business & Entrepreneurship
+- Financial Services & Stock Market
+- Aviation Hospitality & Tourism Management
+Fees: 90000
+Duration: 5 year
+
+Course: B.Sc. IT
+Specializations:
+- Artificial Intelligence & Machine Learning
+- Full Stack App Development
+- Cyber Security
+Fees: 100000
+Duration: 4 year
+
+Course: B.Com
+Specializations:
+- Banking Financial Services & Insurance
+Fees: 50000
+Duration: 4 year
+
+Course:D.Design
+Specializations:
+-Fashion & Communication
+-Graphics & Animation
+Fees: 55000
+Duration: 4 year
+
+Course:B.Design 
+Specializations:
+-Fashion & Communication
+-Product Design
+-Interior Design
+-Visual Communication Design
+-Animation & Game Design
+Fees: 65000
+Duration: 5 year
+
+
+========================
+JG UNIVERSITY
+========================
+
+Course: M.Sc. IT
+Specializations:
+- FinTech
+- Cyber Security
+- Animation & VFX
+- Mobile App & UI Development
+- Business Intelligence & Analytics
+Fees: 150000
+Duration: 5 year
+
+Course: iM.Sc. IT
+Specializations:
+- Data Science & Analytics
+- Cloud & App Development
+- FinTech
+- IMS & Cyber Security
+- Animation & VFX
+Fees: 55000
+Duration: 4 year
+
+Course: iMBA
+Specializations:
+- Global Business Management
+- Aviation Hospitality & Travel Management
+- International Trade & Finance
+Fees: 98000
+Duration: 3 year
+
+
+========================
+GOKUL GLOBAL UNIVERSITY
+========================
+
+Course: BBA - iMBA
+Specializations:
+- Global Business Management
+- Aviation Hospitality & Tourism
+Fees: 85000
+Duration: 3 year
+
+Course: B.Sc. IT
+Specializations:
+- AI & ML
+- Full Stack App Development
+- Animation & VFX
+- IMS & Cyber Security
+Fees: 93000
+Duration: 4 year
+
+Course: B.Com
+Specializations:
+- Banking Financial Services & Insurance
+Fees: 45000
+Duration: 3 year
+
+
+========================
+GANDHINAGAR UNIVERSITY
+========================
+
+Course: iM.Sc. IT
+Specializations:
+- Artificial Intelligence & Machine Learning
+- Animation & VFX
+- FinTech
+- Cloud & App Development
+- Mobile App & UI Development
+Fees: 44000
+Duration: 3 year
+
+Course: BBA 
+Specializations:
+- Aviation Hospitality & Travel Management
+- Global Business Management
+Fees: 37000
+Duration: 3 year
+
+Course: B.Com
+Specializations:
+- Banking Financial Services & Insurance
+Fees: 43000
+Duration: 3 year
+
+Course:Diploma
+Specializations:
+-Fashion Design
+-Interior Design
+-Product Design
+-Animation, VFX & Game Design
+Fees: 47000
+Duration: 4 year
+
+Course:B.Design
+Specializations:
+-Visual Communication Design UI - UX Design
+-Product Design
+-Fashion & Lifestyle Design
+-Interior & Furniture Design
+-Animation, VFX & Game Design
+Fees: 52000
+Duration: 5 year
+
+========================
+ITM SLS BARODA UNIVERSITY
+========================
+
+Course: BBA 
+Specializations:
+- Aviation, Hospitality & Travel Management
+- Global Business Management
+Fees: 45000
+Duration: 3 year
+
+
+========================
+MARWADI UNIVERSITY
+========================
+Course: B.Sc. IT
+Specializations:
+Animation. VFX & Game Design
+-FinTech (IT in Finance)
+-Cloud & App. Development
+-Mobile App & UI Development
+Fees: 80000
+Duration: 4 year
+
+Course: BBA
+Specializations:
+-Aviation, Hospitality & Travel Management
+-Global Business Management
+Fees: 75000
+Duration: 4 year
+
+Course:B.Com
+Specializations:
+-Banking Financial Services & Insurance
+Fees: 69000
+Duration: 3 year
+
+========================
+PPSU  UNIVERSITY
+========================
+Course:B.Sc(Hons.)
+Specializations:
+-Aviation, Hospitality & Tourism
+Management
+Fees: 72000
+Duration: 4 year

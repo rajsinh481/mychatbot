@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Panel</title>
+    <style>
+        body { font-family: Arial; background:#f4f6f8; padding:20px; }
+        h1 { color:#0b2a4a; }
+        .chat {
+            background:white;
+            padding:15px;
+            margin-bottom:10px;
+            border-radius:6px;
+            box-shadow:0 2px 5px rgba(0,0,0,0.1);
+        }
+        .meta { font-size:12px; color:#666; margin-bottom:8px; }
+        .user { color:#c1121f; font-weight:bold; }
+        .bot { color:#0b2a4a; margin-top:8px; white-space: pre-wrap; }
+    </style>
+</head>
+<body>
+
+<h1>Admin Panel – Student Enquiries</h1>
+
+{% for user_id, msg, reply, time in chats %}
+<div class="chat">
+    <div class="meta">User: <strong>{{ user_id }}</strong> • {{ time }}</div>
+    <div class="user">👤 {{ msg }}</div>
+    <div class="bot">🤖 {{ reply }}</div>
+</div>
+{% else %}
+<p>No chats yet.</p>
+{% endfor %}
+
+</body>
+</html>

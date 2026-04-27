@@ -1,0 +1,25 @@
+flask
+python-dotenv
+requests
+
+# LangChain + Embeddings
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+
+# Image OCR
+pillow
+pytesseract
+
+# DOCX
+python-docx
+
+# Excel
+pandas
+openpyxl
+
+# PPT
+python-pptx

@@ -1,0 +1,392 @@
+      course  fees duration
+         BCA 41000   3 years
+  IMCA AI&ML 82000   4 years
+  IMCA Cyber 82000   4 years
+    IMBA IBM 82000   4 years
+IMBA Avition 82000   4 years
+          BA 32000   3 years
+       B.voc 45000   3 years
+
+
+===== DOCUMENT SOURCE: file1.docx =====
+Noble University (Global Vision)
+Bachelor IN
+Hotel Management & Catering Technology (Hons.)
+Introduction
+The Bachelor in Hotel Management and Catering Technology is a dynamic undergraduate program designed to prepare students for successful careers in the hospitality industry. This program combines theoretical knowledge with practical experience, focusing on key areas such as hotel management, food production, and customer service.
+In addition to the core subjects, students will also gain knowledge in business management, marketing, human resource management, and financial management, which are essential for running successful hospitality operations. The program encourages students to think critically, work collaboratively, and stay abreast of industry trends to anticipate and meet the evolving needs of guests.
+Course Highlights
+Industry-Relevant Skills: Develop a strong foundation in hospitality management and operations.
+Practical Experience: Gain hands-on training through internships and real-world projects.
+Leadership Development: Foster managerial skills to lead teams and make strategic decisions.
+Customer Service Excellence: Emphasize the importance of exceptional guest relations.
+Culinary Arts: Learn food production techniques and catering management.
+Job Prospects
+Graduates can pursue various roles, including:
+Hotel Manager
+Resort Manager
+Restaurant Manager
+Front Office Manager
+Housekeeping Manager
+Sales and Marketing Manager
+Food & Beverage Manager
+Event Manager
+Travel Agent
+Catering Manager
+Event Planner
+Conference Coordinator
+Executive Chef
+Sous Chef
+Hospitality Consultant
+Destination Marketer
+Customer Experience Manager
+Catering Business Owner
+Catering Supervisor
+Cruise Activity Coordinator
+Restaurant Owner
+Program Structure
+Spanning four years and eight semesters, the program includes core subjects, electives, and practical training, ensuring a comprehensive education in hospitality. This program is perfect for individuals passionate about the hospitality sector, equipping them with the skills needed to thrive in a competitive environment.
+Address
+Main Campus:
+Junagadh Bhesan Road, Via. Vadal,
+Nr. Bamangan, Junagadh, Gujarat, India
+Pin Code: 362310
+City Campus:
+Noble University City Campus
+Ambawadi Main Rd, Near Bus Station, Joshipura,
+Junagadh, Gujarat
+Pin Code: 362001
+📞 +91 90236 95682
+🌐 www.nobleuniversity.ac.in⁠�
+Knowledge Partner: ARRIVO Edu Pvt. Ltd.
+Main Campus:
+Junagadh Bhesan Road, Via. Vadal,
+Nr.Bamangam, Junagadh, Gujarat, India,
+Pin Code:362310City Campus;
+Noble University City Campus
+Ambawadi Main Rd, Near Bus Station, Joshipura, Junagadh, Gujarat.
+Pin Code :362001+91 9023695682+9195104 08592
+www.nobleuniversity.ac.in
+ABOUT UNIVERSITY
+Noble University is situated near the mountain terrains of Girnar. Junagadh, Gujarat.The beautiful landscape of campus provides you with the most aesthetic feel of naturalism. Noble University is a non-profit state-private university recognised by the Government of Gujarat. Our outcome-based education is driven by our vision and mission of providing essential and synergic education to ourlearners.
+Wefirmly believe that education must not be limited purely to academic learning.
+No matter what you're passionate about, we have something for everyone, You can have it all here.
+Our Vision
+• To become one of the premier Techno-Scientific EducationalOrganisations through excellence in Education, Research and Innovations thereby creating skilled professionalleaders and/orentrepreneurs With high morals and ethics to meet global challenges.
+Our Mission
+• To encourage innovative ideas and provide value-based education through experienced, highly qualified and committed staff members.
+• To achieve a centre of excellence by providing a conducive globally competitive environment in all fields of education available on the campus.
+•To inculcate a culture of integrity, self-reliance, leadership and community responsibility.
+• To promote Institute-Industry Interaction through the collaboration for polishing and trimming the students.
+Core Values
+• Academic and Research excellence: University serves the Student community by
+delivering consistently high-quality academic programmes and providing state of art
+research facilities.
+oInnovation and Entrepreneurship: University encourages, considers and supports development of ideas by fostering individual ingenuity and creativity and creating an environment with opportunities for start-ups and entrepreneurship.
+•Skill Development: University is committed for providing hands-on practical training for skill development and to meet the as wellas technical requirements.
+•Integrity and Ethics: University upholds the highest ethical values, integrity and professionalism with inculcation of human values.
+• Transparent Governance: University is committed for transparency and accountability in governance and encourages decision making process through shared views and common consensus with self-disclosure of information,
+•Social Responsibilities: University is committed to create an inclusive environment Where everyone gets opportunity to develop his full potential and contribute to the consummate growth of the society.
+B.SC.IT BCA INAI&ML
+INTRODUCTION
+Dive into the world of Aland Machine Learning with our bachelor programmme, where you'll discover how these futuristic tools are shaping our world and creating endless opportunities,.
+Embarking on a degree programme like B.Sc. IT I BCA in Al and Machine Learning isn't just about studying - it's about embarking on a journey of discovery and transformation. As you delve into the world of atificial inteligence and machine learning, you're not only gaining valuable skills but also becoming part of a movement that's shaping the future.
+In today's job market, where Alis often hailed as god-like in its capabilities, this programme stands out
+as one of the most job-oriented degrees worldwide. From start-ups to multinational corporations, the demand for skilled Al and machine learning professionals is unprecedented. By pursuing this programme, you're not just investing in your education; you're investing in a future brimming with opportunities.
+Butit's notjust aboutthe possibilties-it's also about the journey. Along the way, you'll be surrounded by passionate peers and dedicated mentors who will challenge and inspire you. You'll have the opportunity to work on real-world projects, collaborate with industry leaders, and make a tangible impact on society.
+So if you're ready to unleash your potential and become a trailblazer in the world of Al and machine learning, then this degree programme isforyou. Joinus, andlet's shape the future together.
+COURSE HIGHLIGHTS
+Python for Al and Analytics
+Next-Gen U/UX Design
+Developing Al-Driven User Interfaces
+Database Systems in the Al Era Data Structures and Algorithms Generative Al - ChatGPTI Copilot Big Data Engineering Essentials
+Business Inteligence with PowerBI& Tableau
+Interactive Data Dashboards Management
+Agile & Scrum Business Analytics Cloud Management for Al Solutions Data Pipelines and Processing
+Data Mining and Predictive Analytics Machine Learning: Algorithms and Applications
+Computer Vision Applications
+JOB PROSPECTS
+• Machine Learning Engineer
+· Data Scientist
+• Al Research Scientist
+· A/ML Software Engineer
+• Deep Learning Specialist
+• Natural Language Processing (NLP) Engineer
+• Computer Vision Engineer
+· AI Product Manager
+· Al Solutions Architect
+. Reinforcement Learning Engineer
+· Al Consultant
+python'
+OpenAl
+R
+R Programming
+aws
+agile
+Scrum.
+AAI
+Robotics
+十
++
+Artifical Intellgence
+Machine
+earninc
+a
+Computer Vision
+B.Sc, ITIBCA IN CLOUD & APP DEVELOPMENT
+INTRODUCTION
+Cloud & Application Development refers to a set of computer science activities dedicated to the
+process of creating, designing, deploying and supporting software.
+At Noble University, we are reshaping technical education with specialized programme that prepare
+students for the next generation IT industry
+The programme aims at empowering students to take up industrial practices as well as for research and real world problem solving, With this 3 year degree the students will be qualified to build and maintain reliable software to address the demand of today's market with innovative and creative
+approach to problem solving. The programme will prepare students for a career in DevOps, where
+students will learn operational tasks as well as development so that they bridge the gap between Application developers and operations. Students will become an expert in the Application fundamentals, Linux, Cloud technologies, IT infrastructure, development technologies like (.net, Java, python, React Native, etc,), principles of continuous development and deployment, automation, IT
+service agility, using DevOps tools such as Git, Docker, Jenkins and more.
+Our comprehensive curriculum covers programming languages, data structure, algorithms, UI-UX, web development, mobile app development, testing, project management skills and many more.
+Confluence
+ŸJIRA
+① git
+DCIOS
+docker
+aws
+Ssbt
+CODE
+DEPLOY
+CHEF
+maven
+BUILD
+RELEASE
+OPERATE
+ANSIBLE
+TEST
+MONITOR
+kubernetes
+e
+JUnit
+Nagios
+splunk
+Jenkin
+CODESHIR
+DATADOG
+BCAB.SC.I
+Al& ML·
+Cloud & App Development ·
+IMS& Cyber Security
+BBA
+International Business Management ·
+Airport & Travel Management ·
+B.Sc.ITIBCAIN IMS & CYBER SECURITY
+INTRODUCTION
+B.Sc. IT I BCA with a specialization in IMS (Infrastructure Management Services) and Cyber Security focuses on providing students with the foundational knowledge of computer applications while also equipping them with specialized skills in managing IT infrastructure and safeguarding digital assets from cyberthreats.
+The modern era of technology demands robust IT infrastructure and advanced cybersecurity measures to support digital transformation and combat cyber threats. The Bachelor programme in IMS & Cyber Security program is designed to prepare students for careers in these vital areas by combining core computer science principles with in-depth knowledge of IT infrastructure management and cybersecurity practices.
+The rapid growth of digital technologies has transformed how businesses operate, connect, and innovate. However, with this transformation comes an increased reliance on IT infrastructure and a growing vulnerability to cyber threats. Organizations across industries now prioritize seamless IT infrastructure management and robust cybersecurity frameworks to ensure operational efficiency and data protection. The Bachelor programme in IMS & Cyber Security program is crafted to meet these modern challenges by equipping students with both theoretical knowledge and hands-on experience. It bridges the gap between traditional computer science education and the advanced demands ofIT operations and security.
+Welcome tothe Future of Technology
+In a world driven byinnovation, businesses and individuals are more connected than ever. However, this digital evolution brings with it an urgent need for robust IT infrastructure and top-notch cybersecurity. The Bachelor programme in IMS & Cyber Security program is designed to mold the next generation of tech leaders, equipping them with cutting-edge skills to manage IT systems efficiently and safeguard them from emerging threats.
+COURSE HIGHLIGHTS
+Introduction to Cybersecurity
+Fundamentals of Computer Science
+Networking Basics
+Operating System Security
+Ethical Hacking and Penetration Testing
+Cryptography and Data Encryption
+Cyber Threats and Incident Response
+Web Application Security
+Digital Forensics
+) Security Risk Management
+Cybersecurity Tools and Technologies.
+• Cryptography and Network Security
+Programming Languages
+(C, Java, Python, etc.)
+Database Management Systems (DBMS)
+Operating Systems
+Computer Networks
+Infrastructure Management Services (IMS)
+Networking Essentials
+Cloud Computing and Virtualization
+IT Service Management (ITIL)
+Cyber Security Principles
+COURSE HIGHLIGHTS
+Fundamentals of App Development
+. Networking
+• Linux
+· Microsoft Servers
+• Version Control
+• Cloud Computing
+• Scripting Language - Node JS, JavaScript
+• Programming Technologies - Java, React Native, Python
+· Application Designing -HTML5, CSS3 Bootstrap
+JOB PROSPECTS
+• Server Administrator
+• System Engineer
+· Cloud Engineer
+· DevOps Engineer
+• Linux Security Administrator
+.Kubernetes Administrator
+· AWS
+· Al and ML
+· PHP
+· Automation
+· Firewall
+· Ansible for Network Automation
+· UI/UX
+• Application Testing Tools
+· Azure
+· Build Engineer
+• DevOps Software Developer
+• Automation Architect
+• Senior App Developer
+· DevOPs Software Engineer
+• Cloud Administrator
+• Technical Manager
+• Operation Manager-Technica
+• Server Administrator
+· Virtualization Administrator
+• Desktop Support Engineer
+· L1 Engineer
+· L2 Engineer
+• Technical Team Leader
+Aa
+日
+Azure
+git
+React Native
+Jira
+HTML
+5
+python
+MariaDB
+SO!
+.NET
+JAVA
+This curriculum is designed to prepare students to excel in the rapidly growing field of cybersecurity
+by equipping them with technical expertise, analytical skills, and hands-on experience to combat modern cyber threats effectively.
+Cybersecurity Analyst
+Penetration Tester (Ethical Hacker)
+Security Consultant
+Incident Responder
+Security Architect
+Network Security Engineer
+Incident Response Analyst
+Governance, Risk, and Compliance (GRC)
+Analyst
+• Chief Information Security Officer (CISO)
+Cybersecurity Researcher
+Forensic Analyst
+• Cryptographer
+Vulnerability Analyst
+• Cloud Security Specialist
+• Data Security Analyst
+• IT Infrastructure Manager
+• Cyber Forensics Analyst
+DevSecOps Engineer
+• Security Operations Center (SOC) Analyst
+Conclusion: The B.Sc. IT I BCA in IMS & Cyber Security program is your gateway to a future-proof career in the ever-evolving fields of IT infrastructure and cybersecurity. By combining cutting-edge knowledge, hands-on training, and real-world applications, this program empowers you to become a leader in safeguarding digital ecosystems. Whether you aspire to design secure networks,
+combat cyber threats, or innovate in IT management, this course equips you with the skills and confidence to excel in the modern technology landscape.
+As the demand for skilled professionals in IT security and infrastructure grows, this program positions you at the forefront of the industry, ready to tackle complex challenges and drive innovation. Whether you're protecting sensitive data, optimizing IT systems, or advancing cybersecurity strategies, this course lays a solid foundation for long-term success in a rapidly changing tech world
+CCNA
+SECURITY
+Coupute
+HFI
+Hackins For
+INVESTIGATOR
+EH
+Ethical Hacke
+redhat
+CERTIFIED
+ENGINEEF
+CCSA
+KALI NNU
+MCSA
+Microsoft
+CERTIFIE D
+Solutions Associate
+S0lServer
+BBA IN INTERNATIONAL BUSINESS MANAGEMENT
+INTRODUCTION
+The Bachelor of Business Administration (BBA) in International Business & Entrepreneurship is a forward-thinking undergraduate program designed to prepare aspiring business leaders for the challenges and opportunities of a globalized economy, This program offers a unique combination of foundational business knowledge, global business strategies, and entrepreneurial skills, equipping students to excel in international markets or start and grow their own ventures.
+Through a dynamic curiculum, practical exposure, and industry collaborations, students gain expertise in international trade, cross-cultural management, innovation, and business development. The program emphasizes leadership, critical thinking, and adaptability, essential for thriving in today's fast-paced business landscape.
+Whether you aim to manage multinational corporations, lead startups, or explore opportunities in global markets, this program provides the knowledge and skills needed to navigate the complexities of international business and entrepreneurship successfully.
+Students also benefit from networking opportunities, mentorship from industry experts, and access to global business resources, fostering a practical understanding of the international marketplace. With an emphasis on real-world applications, this program prepares graduates to identify trends, overcome challenges, and seize opportunities in a highly competitive business environment.
+Whether you aim to manage multinational corporations, lead startups, or explore opportunities in global
+markets, this program provides the knowledge and skills needed to navigate the complexities of international
+business and entrepreneurship successfully.
+Furthermore, the program integrates cutting-edge topics such as digital transformation, sustainable business practices, and emerging market trends. These elements empower students to develop innovative solutions and make informed decisions in diverse business settings. Opportunities for internships, exchange programs,
+and international projects further enhance their global perspective and practical skills.
+COURSE HIGHLIGHTS
+• Principles of Business Administration
+• Global Business Environment
+• Entrepreneurship Fundamentals
+· International Trade and Finance
+Cross-Cultural Management
+Marketing Strategies for Global Businesses
+Innovation and Business Development
+Supply Chain and Logistics Management
+• Business Law and Ethics
+• Financial Planning and Risk Management
+· Digital Business andE-Commerce
+• Sustainabilityin Business
+• Leadership and Decision-Making • Practical Exposure andInternships · Capstone Project
+和
+• Sustainabilty in Business
+This curriculum equips students with a global perspective, entrepreneurial mindset, and practical skills to excel ininternational business environments or create successfulenterprises.
+International Business Manager
+Entrepreneur/Startup Founder
+Global Marketing Manager
+International Trade Analyst
+Supply Chain Manager
+International Business Consultant
+Foreign Service Officer/Diplomat
+International Marketing Director
+Global Expansion Manager
+Trade Compliance Specialist
+International Logistics Manager
+Global Sourcing Manager
+Impor/Export Compliance Officer
+International Brand Manager
+International Human Resources Manager
+International Project Manager
+International Finance Analyst
+International Sales Manager
+Cross-Cultural Consultant
+E-Commerce Manager
+Global Account Executive
+Foreign Investment Consultant
+International Retail Manager
+Cross-Border Mergers & Acquisitions Analyst
+Business Development Manager (nternational)
+Global Supply Chain Coordinator
+• Export/lmport Manage International Business Strategy Analyst
+Final Thoughts: The field of international business and entrepreneurship is dynamic and offers various roles in multiple sectors across the globe. Graduates of BBA programs can expect to work in a diverse set of industries such as finance, marketing, logistics, consulting, technology, and government, with the flexibility to work in different countries and regions. As globalization continues, the demand for professionals with international
+BBA IN AIRPORT, HOSPITALITY & TRAVEL MANAGEMENT
+INTRODUCTION
+The Bachelor of Business Administration (BBA) in Airport & Travel Management is a dynamic undergraduate program designed to prepare students for leadership roles in two of the most exciting and rapidly growing industries worldwide. This interdisciplinary course blends business administration principles with specialized knowledge in airport operations and travel management,
+providing students with a comprehensive understanding of these interrelated sectors.
+Through a mix oftheoreticallearning, practical training, andindustryexposure, students gain the skills needed to manage operations, deliver exceptional customer experiences, and drive innovation in these industries, With a focus on global trends, sustainable practices, and advanced technologies, this program ensures graduates are well-equipped to thrive in today's competitive market.
+The program emphasizes key areas such as strategic planning, financial management, service excellence, and customer relationship management, tailored to the unique demands of airport operations and travel management. Students also benefit from industry internships, hands-on projects, and mentorship from seasoned professionals, allowing them to build valuable connections and practical expertise.
+Additionally, students explore crucial topics such as aviation safety, security protocols, travel and tourism regulations, and global transportation logistics. These areas ensure that graduates are well-versed in the operational, regulatory, and technological aspects of the airport and travel sectors.
+Moreover, courses on digital transformation, crisis management, and sustainability equip students to
+address emerging challenges and capitalize on new opportunities in these dynamic sectors.
+COURSE HIGHLIGHTS
+COURSE HIGHLIGHTS
+• Principles ofManagement
+~Introduction to Aviation, Hospitality, and Tourism
+• Airline Operations and Airport Management
+Hotel Operations and Customer Service Management
+Tour Operations and Destination Management Marketing in Aviation, Hospitality, and Tourism • Sustainable Practices in Tourism and Hospitality • Event Planning and Management
+• Financial Accounting and Revenue Management Global Distribution Systems (GDS)and Technology
+JOB PROSPECTS
+Airport Operations Manager
+Airline Manager
+Travel Consultant/Travel Agent
+Tourism Development Officer
+Customer Service Manager(Airlines/Travel)
+Aviation Safety and Security Manager
+Corporate Travel Manager
+Eventand Conference Coordinator
+Hospitality and Hotel Manager
+• Logistics and Transportation Manager • Tour Guide/Travel Experience Specialist • Tourism Policy Analyst
+· Destination Marketing Manager
+· Airport Retail and Commercial Manager
+Conclusion: The Airport & Travel Management sectors are thriving, offering a wealth of opportunities across various roles. Graduates can build careers in airlines, hotels, resorts, travel agencies, cruise lines, and event management companies. Additionally, they can contribute to government tourism boards and sustainable tourism initiatives. These industries promise dynamic and fulfilling career paths in management, customer service, marketing, operations, and sales, catering to individuals seeking growth and innovation in theirprofessionaljourney
+operations, and sales, along with specialized roles in airport ground handing, aviation safety, and travel technology. With the continuous expansion of global tourism and advancements in travel infrastructure, Airport & Travel Management professionals are at the forefront of shaping experiences that connect the world, offering immense growth potential and job satisfaction.

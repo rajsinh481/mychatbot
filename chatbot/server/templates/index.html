@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Noble University</title>
+
+<style>
+*{
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+body{
+    margin: 0;
+    background: #f2f4f7;
+    height: 100vh;
+    overflow: hidden;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 60px;
+    background: #0b2a4a;
+    height: 90px;
+}
+.header-left{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+header img{
+    height: 65px;
+}
+.header-right{
+    color: #ff3b3b;
+    font-weight: bold;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.admin-btn{
+    background: transparent;
+    border: 1px solid rgba(255,255,255,0.35);
+    color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.container{
+    height: calc(100vh - 90px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 18px;
+}
+.chatbox{
+    width: min(1050px, 95vw);
+    height: 88%;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 12px 35px rgba(0,0,0,0.18);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.chat-title{
+    background: linear-gradient(to right, #0b2a4a, #c1121f);
+    padding: 14px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+.messages{
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+    background: #f9fbfd;
+}
+.user-msg{
+    text-align: right;
+    margin: 12px 0;
+}
+.user-msg span{
+    display: inline-block;
+    background: #0b2a4a;
+    color: white;
+    padding: 10px 14px;
+    border-radius: 15px 15px 0 15px;
+    max-width: 70%;
+    word-wrap: break-word;
+}
+.bot-msg{
+    text-align: left;
+    margin: 12px 0;
+}
+.bot-msg span{
+    display: inline-block;
+    background: #e9eef5;
+    color: #0b2a4a;
+    padding: 10px 14px;
+    border-radius: 15px 15px 15px 0;
+    max-width: 70%;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+.input-area{
+    display: flex;
+    padding: 15px;
+    border-top: 1px solid #ddd;
+    background: #ffffff;
+    gap: 8px;
+}
+.input-area input{
+    flex: 1;
+    padding: 12px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+}
+.send-btn{
+    background: #0b2a4a;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.history-btn {
+    position: fixed;
+    top: 20px;
+    left: 16px;
+    font-size: 22px;
+    background: rgba(11,42,74,0.95);
+    color: white;
+    padding: 8px 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    z-index: 2000;
+}
+.history-panel {
+    position: fixed;
+    top: 0;
+    left: -300px;
+    width: 290px;
+    height: 100%;
+    background: #ffffff;
+    box-shadow: 4px 0 18px rgba(0,0,0,0.25);
+    padding: 14px;
+    transition: 0.25s ease;
+    z-index: 1999;
+    overflow-y: auto;
+}
+.history-actions{
+    display:flex;
+    gap:8px;
+    margin-bottom: 12px;
+}
+.clear-btn{
+    flex:1;
+    background:#c1121f;
+    color:white;
+    border:none;
+    padding:10px 12px;
+    border-radius:10px;
+    cursor:pointer;
+}
+.close-btn{
+    background:#0b2a4a;
+    color:white;
+    border:none;
+    padding:10px 12px;
+    border-radius:10px;
+    cursor:pointer;
+}
+.history-item {
+    background: #f2f4f7;
+    padding: 10px;
+    margin-bottom: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 14px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="history-btn" onclick="toggleHistory()">☰</div>
+
+<div class="history-panel" id="historyPanel">
+    <h3>Chat History</h3>
+    <div class="history-actions">
+        <button class="clear-btn" id="clearHistoryBtn">🗑️ Clear</button>
+        <button class="close-btn" onclick="toggleHistory()">✕</button>
+    </div>
+    <div id="historyList"></div>
+</div>
+
+<header>
+    <div class="header-left">
+        <img src="/static/images.png" alt="Noble University Logo">
+    </div>
+
+    <div class="header-right">
+        COURSE-ENQUIRY CHATBOT
+        <button class="admin-btn" onclick="window.location.href='/admin'">Admin</button>
+    </div>
+</header>
+
+<div class="container">
+    <div class="chatbox">
+        <div class="chat-title">🤖 COURSE-ENQUIRY CHATBOT</div>
+
+        <div class="messages" id="messages">
+            <div class="bot-msg">
+                <span>
+Welcome.
+This chatbot answers from image-trained data.
+                </span>
+            </div>
+        </div>
+
+        <div class="input-area">
+            <input type="text" id="userInput" placeholder="Ask your question here...">
+            <button class="send-btn" onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
